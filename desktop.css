@@ -1,0 +1,142 @@
+
+/* header section start here */
+
+.logo-section{
+    text-align: left;
+}
+.logo-section .logo{
+   width: 80px;
+   height: 80px;
+   margin: 15px auto;
+   line-height: 80px;
+}
+.navigation{
+    text-align: right;
+    padding-top: 46px;
+
+}
+.navigation ul li{
+    display: inline;
+
+}
+.navigation ul li a{
+    display: inline;
+    background-color: transparent;
+    margin: 10px 5px;
+    padding: 7px;
+}
+.navigation ul li a:hover{
+    box-shadow: 4px 4px 6px rgb(6, 32, 36);
+    background-color: transparent;
+}
+
+/* header section end here */
+
+/* bannar section start here */
+
+#bannar-section{
+    height: 100vh;
+    padding: 0 1%;
+    position: relative;
+}
+.bannar-content{
+    text-align: center;
+    color: white;
+    padding: 0 1%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 90%;
+}
+.bannar-content h1{
+    font-size: 1.7rem;
+    padding: 40px;
+}
+.bannar-content p{
+    margin: 10px auto;
+    padding: 20px;
+}
+.bannar-content button{
+    padding: 10px;
+}
+
+/* bannar section end here */
+
+/* about section start here */
+
+#about-section h2{
+    font-size: 1.5rem;
+    padding: 15px;
+}
+#about-section p{
+    text-align: center;
+    padding-bottom: 8px;
+}
+
+/* about section end here */
+
+/* food menu section start here */
+
+
+
+/* food menu section end here */
+
+/* contact section start here */
+
+.contact-dec{
+    text-align: left;
+    padding-left: 50px;
+}
+.contact-dec h3{
+    text-align: left;
+    margin-left: -10px;
+}
+.contact-dec hr{
+    width: 35%;
+    margin: 5px 0 5px 0;
+    margin-bottom: 10px;
+}
+
+/* contact section end here */
+
+/* footre section start here  */
+
+#footer-section{
+    padding: 1%;
+}
+#footer-section p{
+    font-size: 1rem;
+}
+.footer-menu-icon{
+ margin: 5px 25px;
+}
+
+/* footre section end here  */
+
+
+
+
+.col-lg-1 {width: 8.33%;}
+
+.col-lg-2 {width: 16.66%;}
+
+.col-lg-3 {width: 25%;}
+
+.col-lg-4 {width: 33.33%;}
+
+.col-lg-5 {width: 41.66%;}
+
+.col-lg-6 {width: 50%;}
+
+.col-lg-7 {width: 58.33%;}
+
+.col-lg-8 {width: 66.66%;}
+
+.col-lg-9 {width: 75%;}
+
+.col-lg-10 {width: 83.33%;}
+
+.col-lg-11 {width: 91.66%;}
+
+.col-lg-12 {width: 100%;}
